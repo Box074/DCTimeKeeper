@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Element
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 24d8928c68b9d0248a3110c63f933441, type: 3}
+    totalSpriteSurfaceArea: 2393325
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 322ba1500add88046810e495480594ef, type: 3}
+  - {fileID: 21300000, guid: 9339e390089c1e34e88dd584bef6e629, type: 3}
+  - {fileID: 21300000, guid: 5e1afa905952a694f9e6f5b168d3bda4, type: 3}
+  - {fileID: 21300000, guid: bf98b5a0848318348ae7d52c51b42346, type: 3}
+  - {fileID: 21300000, guid: 3742e2c01b8336846b475748b275f4b3, type: 3}
+  - {fileID: 21300000, guid: 36e527d095e31fe4d9f68e65fbff29c2, type: 3}
+  - {fileID: 21300000, guid: f9f0720121d5f674fa9b2ac11959df47, type: 3}
+  - {fileID: 21300000, guid: 1bcdcd112f57d05438320d17c63cc337, type: 3}
+  - {fileID: 21300000, guid: c68ec59100f3076429d4ff6a28d5464a, type: 3}
+  - {fileID: 21300000, guid: b84fecb13b1617346988d4356f344635, type: 3}
+  - {fileID: 21300000, guid: a0b607725417b234a87ef11256800672, type: 3}
+  - {fileID: 21300000, guid: 959a9cd3d9a558d40a3ff6ab887aca13, type: 3}
+  - {fileID: 21300000, guid: d18b8c04db310fe4cac16ac6ed53e3b5, type: 3}
+  - {fileID: 21300000, guid: 18c26e04290ae9f4ca12f085c85668dd, type: 3}
+  - {fileID: 21300000, guid: ece8b9240141f714ca15fe79cfd4b8e4, type: 3}
+  - {fileID: 21300000, guid: 805e22649d5ae254c9ae49b4fbad674a, type: 3}
+  - {fileID: 21300000, guid: 835b10b4428f64049b582e6b15cbb93e, type: 3}
+  - {fileID: 21300000, guid: b7f0a2e4828e36f48ab6ded41d832dad, type: 3}
+  - {fileID: 21300000, guid: ecd9d435cfb773545b61f76189181850, type: 3}
+  - {fileID: 21300000, guid: c4bc0645aa5c3a84bb2c64b2f387f5ec, type: 3}
+  - {fileID: 21300000, guid: 1211ca55f54d80f469c609bb290376ad, type: 3}
+  - {fileID: 21300000, guid: c26a5875bde771c4a9f75fd1d979b280, type: 3}
+  - {fileID: 21300000, guid: 7ed003d5dae32544fa6fc215a88013c9, type: 3}
+  - {fileID: 21300000, guid: 95179a6679b301e49a02575686d87b0b, type: 3}
+  - {fileID: 21300000, guid: 7a9f4276848f3824eb17686e137ce269, type: 3}
+  - {fileID: 21300000, guid: 5792f9e6af186e34bb94556c89af3f3a, type: 3}
+  - {fileID: 21300000, guid: dc8a7c2793a1b944fb8babfb3f9b1378, type: 3}
+  - {fileID: 21300000, guid: 69aeb3573c3019947a1e42d42be42d5c, type: 3}
+  - {fileID: 21300000, guid: 1bb843a783ba6cb4cbba1c3bafef9d3b, type: 3}
+  - {fileID: 21300000, guid: 6320ccb7ebd575d458cb16447c19c22e, type: 3}
+  - {fileID: 21300000, guid: f661cc980c9734f46be6264926db58c6, type: 3}
+  - {fileID: 21300000, guid: fcb504e80bc2f6b47968e419ccd725cf, type: 3}
+  - {fileID: 21300000, guid: 439ca229fe73a3a4c93b31249c96802a, type: 3}
+  - {fileID: 21300000, guid: 5e6bbdf99e000854e899efdd08b45f15, type: 3}
+  - {fileID: 21300000, guid: 91cecc0a16c9782459eba3d1784705f5, type: 3}
+  - {fileID: 21300000, guid: 6bf8aa3addb0d3d4ebf57dfbfdd39427, type: 3}
+  - {fileID: 21300000, guid: 3dfcf96a0400e8145bb02fff2af28050, type: 3}
+  - {fileID: 21300000, guid: b5ab447aabf55e74bbf606629ae55b31, type: 3}
+  - {fileID: 21300000, guid: b067d08a65f785b44b185e8e8613936e, type: 3}
+  - {fileID: 21300000, guid: b4446a9a8c24ad74a9f7dac94667ee48, type: 3}
+  - {fileID: 21300000, guid: 9e5fd2ca24c0d16448fc69a0f134571f, type: 3}
+  - {fileID: 21300000, guid: 1815e4ebfe26f2647bf507c8fc2ca37e, type: 3}
+  - {fileID: 21300000, guid: f473483c2f2cf4a4cb2ea935bc8eb3b8, type: 3}
+  - {fileID: 21300000, guid: 1d10967c8b57c994c83fc825fa42f653, type: 3}
+  - {fileID: 21300000, guid: a3a07dac0c6b3b04b8173009ddeae3dd, type: 3}
+  - {fileID: 21300000, guid: d3be10bc01e43dd49b720fa584cd687d, type: 3}
+  - {fileID: 21300000, guid: 724996dcf6a883b439e98cb17b700611, type: 3}
+  - {fileID: 21300000, guid: 8a3a053d6e57d10469752358c601605c, type: 3}
+  - {fileID: 21300000, guid: 9324f34dd356451459bfc8180ad04f01, type: 3}
+  - {fileID: 21300000, guid: cbdbfe4ded87bd841816db789c3f248c, type: 3}
+  - {fileID: 21300000, guid: 9daff78dcdfc6704da595cb24e945a31, type: 3}
+  - {fileID: 21300000, guid: f156a5bdee8bcdf4b9268f4720982f04, type: 3}
+  - {fileID: 21300000, guid: 833eb3ed2da89f34989c935fd45bc3c3, type: 3}
+  - {fileID: 21300000, guid: 7b46dd5e20a5397419dec5c8e098d5c9, type: 3}
+  - {fileID: 21300000, guid: 3bd1a36eae52d164c819e16943584b46, type: 3}
+  - {fileID: 21300000, guid: c322457e51e19cc4e8be502539e055e4, type: 3}
+  - {fileID: 21300000, guid: e1663d9e483e9204f87952348723ac73, type: 3}
+  - {fileID: 21300000, guid: 5bfde9ae32bbcaf46b752985820df3eb, type: 3}
+  - {fileID: 21300000, guid: 3185355f16463d948818bb842e9d6537, type: 3}
+  - {fileID: 21300000, guid: ba89655fdce25fe40b4142183b855798, type: 3}
+  - {fileID: 21300000, guid: 4435f99f9f20ba84e81ddceb9ea4239e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fxFlesh4-=-0-=-
+  - hugeSword-=-0-=-
+  - bloodB_0011-=-0-=-
+  - bloodB_0013-=-0-=-
+  - fxThrowShuriken_0003-=-0-=- 1
+  - bloodA_0000-=-0-=-
+  - bloodA_0008-=-0-=-
+  - fxLightning2-=-0-=-
+  - fxFlesh3-=-0-=-
+  - portalAlphaMap-=-0-=-
+  - bloodA_0005-=-0-=-
+  - bloodB_0009-=-0-=-
+  - fxThrowShuriken_0001-=-0-=-
+  - hookChain0-=-0-=-
+  - bloodB_0006-=-0-=-
+  - bloodB_0001-=-0-=-
+  - fxThrowShuriken_0003-=-0-=-
+  - fxThrowShuriken_0004-=-0-=-
+  - bloodB_0014-=-0-=-
+  - portalExitRing-=-0-=-
+  - bloodB_0005-=-0-=-
+  - fxThrowShuriken_0002-=-0-=- 1
+  - portalEnterAdd-=-0-=-
+  - shuriken-=-0-=-
+  - fxThrowShuriken_0000-=-0-=-
+  - fxLightning1-=-0-=-
+  - bloodB_0002-=-0-=-
+  - bloodB_0003-=-0-=-
+  - bloodB_0008-=-0-=-
+  - hook-=-0-=-
+  - bloodB_0000-=-0-=-
+  - hookArrow-=-0-=-
+  - hookChain2-=-0-=-
+  - fxFlesh1-=-0-=-
+  - bloodA_0002-=-0-=-
+  - bloodA_0003-=-0-=-
+  - bloodB_0015-=-0-=-
+  - bloodA_0007-=-0-=-
+  - bloodB_0012-=-0-=-
+  - fxLightning0-=-0-=-
+  - gold
+  - fxThrowShuriken_0000-=-0-=- 1
+  - bloodA_0004-=-0-=-
+  - bloodA_0006-=-0-=-
+  - bloodB_0010-=-0-=-
+  - bloodB_0004-=-0-=-
+  - fxThrowShuriken_0002-=-0-=-
+  - bloodA_0009-=-0-=-
+  - hookChain1-=-0-=-
+  - fxThrowShuriken_0001-=-0-=- 1
+  - portalEnterRing-=-0-=-
+  - bloodB_0007-=-0-=-
+  - portalExitAdd-=-0-=-
+  - fxFlesh0-=-0-=-
+  - fxFlesh2-=-0-=-
+  - fxThrowShuriken_0004-=-0-=- 1
+  - bloodB_0016-=-0-=-
+  - bloodB_0017-=-0-=-
+  - World
+  - bloodA_0001-=-0-=-
+  - bloodB_0018-=-0-=-
+  m_RenderDataMap: {}
+  m_Tag: Element
+  m_IsVariant: 0

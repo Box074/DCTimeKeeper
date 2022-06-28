@@ -1,0 +1,99 @@
+{
+    "modName": "TimeKeeper",
+    "modVersion": "0.0.0.0",
+    "codeDir": "./ModCode",
+    "reference": [
+        "./Temp/bin/Debug/DCTimeKeeperUnity.dll"
+    ],
+    "csCompileInfo": true,
+    "enableNullableCheck": true,
+    "hktool": {
+        "compressResources": true,
+        "externRes": true,
+        "modifyIL": true,
+        "modRes": {
+            "ab.win": {
+                "name": "AB_WIN",
+                "type": "ab"
+            },
+            "ab.linux": {
+                "name": "AB_LINUX",
+                "type": "ab"
+            },
+            "ab.mac": {
+                "name": "AB_MAC",
+                "type": "ab"
+            },
+            "scene.win": {
+                "name": "SCENE_WIN",
+                "type": "ab"
+            },
+            "scene.linux": {
+                "name": "SCENE_LINUX",
+                "type": "ab"
+            },
+            "scene.mac": {
+                "name": "SCENE_MAC",
+                "type": "ab"
+            },
+            "script": {
+                "name": "SCRIPT_ASSEMBLY_BYTE",
+                "type": "bin"
+            },
+            "lang.zh": {
+                "name": "LANG_ZH",
+                "type": "utf8"
+            }
+        },
+        "referenceLib": true
+    },
+    "resources": {
+        "./Assets/AssetBundles/Windows/timekeeperres": "ab.win",
+        "./Assets/AssetBundles/Linux/timekeeperres": "ab.linux",
+        "./Assets/AssetBundles/MacOs/timekeeperres": "ab.mac",
+        "./Assets/AssetBundles/Windows/clockroom": "scene.win",
+        "./Assets/AssetBundles/Linux/clockroom": "scene.linux",
+        "./Assets/AssetBundles/MacOs/clockroom": "scene.mac",
+        "./Temp/bin/Debug/DCTimeKeeperUnity.dll": "script",
+        "./ModCode/Lang/zh.txt": "lang.zh"
+    },
+    "dependencies": [
+        {
+            "name": "Modding API",
+            "url": "https://github.com/hk-modding/api/releases/latest/download/ModdingApiWin.zip",
+            "ignoreFiles": [
+                "MMHOOK_PlayMaker.dll",
+                "Mono.Cecil.dll",
+                "MonoMod.RuntimeDetour.dll",
+                "MonoMod.Utils.dll"
+            ]
+        },
+        {
+            "name": "Vanilla",
+            "url": "https://files.catbox.moe/i4sdl6.zip",
+            "ignoreFiles": [
+                "Assembly-CSharp.dll",
+                "mscorlib.dll",
+                "Newtonsoft.Json.dll"
+            ]
+        },
+        {
+            "name": "HKTool",
+            "url": "https://github.com/HKLab/HollowKnightMod.Tool/releases/latest/download/Output.zip"
+        }
+    ],
+    "csproj": {
+        "itemGroup": {
+            "name": "ItemGroup",
+            "content": [],
+            "attr": {}
+        },
+        "propertyGroup": {
+            "name": "PropertyGroup",
+            "content": [],
+            "attr": {}
+        }
+    },
+    "bindingLogger": [],
+    "$schema": "https://github.com/HKLab/hkmod-utils/raw/master/schemca/modProject.json"
+}

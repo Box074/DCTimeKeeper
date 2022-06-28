@@ -1,0 +1,9 @@
+{
+    "devDependencies": {
+        "hkmod-utils": "^0.1.0"
+    },
+    "scripts": {
+        "build": "dotnet build DCTimeKeeperUnity.csproj & hkmod build -CZ -H256 > Info.txt",
+        "csproj": "dotnet build DCTimeKeeperUnity.csproj & hkmod generateCsproj & dotnet sln add TimeKeeper.csproj"
+    }
+}
